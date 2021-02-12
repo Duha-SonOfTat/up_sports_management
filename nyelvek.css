@@ -1,0 +1,38 @@
+.nyelvek{
+	list-style: none;
+	display: flex;
+	visibility: hidden;
+	opacity: 0;
+	transition: 1s ease-in-out;
+	overflow: hidden;
+}
+.hamburger.open + .burgeria .nyelvek{
+	visibility: visible;
+	opacity: 1;
+}
+#magyar, #roman, #angol{
+	display: none;
+}
+
+#magyar + label, #roman + label, #angol + label {
+	margin: 0 1rem 0 1rem;
+	width: 50px;
+	height: 50px;
+	display: block;
+	background-size: cover;
+	cursor: pointer;
+}
+
+#magyar + label{
+	background-image: url(hungary.png);
+}
+#roman + label{
+	background-image: url(romania.png);
+}
+#angol + label{
+	background-image: url(great-britain.png);
+}
+#magyar:checked + label, #roman:checked + label, #angol:checked + label{
+	filter: gray;
+	-webkit-filter: grayscale(1);
+}

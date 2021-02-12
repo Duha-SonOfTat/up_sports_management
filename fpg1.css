@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+/*.oldalak{
+	position: relative;
+	height: 100vh;
+}*/
+.section{
+	/*height: 100vh;*/
+	display: flex;
+	flex-direction: column;
+}
+.section h2{
+	justify-content: space-around;
+}
+.cim {
+	text-transform: uppercase;
+	font-size: 4.5rem;
+	color:white;
+	mix-blend-mode: difference;
+}
+.section:nth-child(1){
+	height: 80vh;
+	background-color: #f4f1bb;
+	background: url(basketball-court.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.section:nth-child(2){
+/*	background-color: #ed6a5a;*/
+}
+.section:nth-child(3){
+	background-color: #f4f1bb;
+	height: 0vh;
+	display: hidden;
+}
+.section:nth-child(4){
+	background-color: #cfbcdf;
+	height: 0vh;
+	display: hidden;
+}
+.section:nth-child(5){
+/*	height: 20vh;
+	background-color: #034732;
+*/}

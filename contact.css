@@ -1,0 +1,30 @@
+#Contact{
+	/*height: 80%;
+	width: 100%;*/
+	background-color: #231f20;
+	background-size: cover;
+	display: block;
+	/*height: 100vh;*/
+}
+#Contact h1{
+	padding-left: 1%;
+	padding-top: 0.5%;
+	font-size: 2rem;
+	color: white;
+}
+#Contact p{
+	padding-left: 1%;
+	padding-top: 0.5%
+	padding-bottom 2%;
+	font-size: 1.5rem;
+	color: white;
+	/*border: 2px solid pink;*/
+}
+.socialmenu{
+	margin-top: 4%;
+	position: relative;
+	padding-top: 3%;
+	padding-left: 1%;
+	padding-bottom: 0;
+	/*border: 2px solid pink;*/
+}
