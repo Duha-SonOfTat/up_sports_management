@@ -1,0 +1,61 @@
+#About_us{
+	background:     linear-gradient(
+      rgba(39,100,90, 0.45), 
+      rgba(39,100,90, 0.45)
+    ),url(oriental-tiles.png);
+	background-repeat: repeat;
+	/*background-color: #27645a;*/
+}
+#About_us h1{
+	font-size: 4rem;
+	/*border: 2px solid pink;*/
+	text-align: center;
+	color: white;
+	padding: 2%;
+}
+#About_us p{
+	font-size: 1.5rem;
+	/*border: 2px solid pink;*/
+	text-align: center;
+	color: black;
+	padding: 1%;
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-left: 3%;
+	margin-right: 3%;
+}
+#About_us ul{
+	list-style-type: circle;
+	list-style-position: inside;
+	font-size: 1.5rem;
+	/*border: 2px solid pink;*/
+	/*text-align: center;*/
+	color: black;
+	padding: 1%;
+	padding-left: 5%;
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.p_list_header{
+	padding-bottom: 0;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.list_1{
+	padding-top: 0;
+}
+.tibi_kep_div{
+	/*border: 2px solid pink;*/
+	color: black;
+	padding: 1%;
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-left: 3%;
+	margin-right: 3%;
+	/*opacity: 0.75;*/
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.tibi_kep{
+	width:50%;
+}
