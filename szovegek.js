@@ -43,6 +43,120 @@ const page_aboutus = {
 	}
 }
 
+const page_projects = {
+	"en": {
+		"alin_1": "Zalgiris Youth Camp Târgu Mureș 2021",
+		"alin_2": "Organized by UP Sports Management & BC Sirius Targu Mures",
+		"alin_3": "- on air by Radio Guerrilla -",
+		"alin_4": "We are happy to announce our first big project in 2021, Zalgiris Youth Camp Târgu Mureș 2021.Zalgiris Kaunas is a well known club from Lithuania, with outstanding results in the EuroLeague. We arehonored to host 4 Zalgiris system basketball coaches, 1 physical conditioning coach and 1 manager fromthis prominent club. They will help the participants to grow, and to increase their athletic and basketballperformance. ",
+		"alin_5": "Who can participate: boys born in 2005-2006-2007",
+		"alin_6": "Costs:",
+		"alin_7": "350 € without meal and accommodation",
+		"alin_8": "500 € with accommodation and meals included",
+		"alin_9": "What you get:",
+		"alin_10": "7 practices with participants divided in 3 groups; 1 trip day, practice uniforms, fresh fruit and water atpractices, medical supervision during practices, special prizes and gifts",
+		"alin_11": "The participation fees have to be sent to the following bank account before the 14th of May 2021:",
+		"alin_12": "Transfers from Romania (RON):",
+		"alin_13": "Beneficiary: CLUBUL SPORTIV B.C. SIRIUS TÂRGU MUREȘ",
+		"alin_14": "Account: RO29RNCB0188098436260001",
+		"alin_15": "Bank: BCR Branch TÂRGU MUREȘ",
+		"alin_16": "Transfers from other countries (EUR):",
+		"alin_17": "Beneficiary: B.C. SIRIUS SPORT CLUB TARGU MUREȘ",
+		"alin_18": "Account: RO02RNCB0188098436260002",
+		"alin_19": "SWIFT: RNCBROBU",
+		"alin_20": "Bank: BCR Branch TÂRGU MUREȘ",
+		"alin_21": "In the message box you should enter the name of the participating player. Places will be filled in the order of payments.",
+		"alin_22": "Application form:",
+		"alin_23": "NOTES",
+		"alin_24": "After receiving your application, we will send you an e-mail as soon as we have further details.",
+		"alin_25": "In case of cancellation, we can only return 150 Euros which covers the accommodation and food services (if requested). We recommend taking out an insurance in your country for the remaining amount.",
+		"alin_26": "Please note that you will have to send us a medical document, which proves that the player is not suffering from any contagious diseases, and he can participate in team activities. The medical documentshould not be older than 7 days at the beginning of the camp.",
+		"alin_27": "Every player should bring a basketball in the size he uses.",
+		"alin_28": "Schedule:",
+		"alin_29": "27th of June: arrival at hotel, if accommodation is requested",
+		"alin_30": "28th of June: 3 groups x 1 practice",
+		"alin_31": "29th of June: 3 groups x 2 practices",
+		"alin_32": "30th of June: 3 groups x 1 practice; COACH CLINIC: 3 PM, CONTINENTAL HOTEL",
+		"alin_33": "1st of July: trip day",
+		"alin_34": "2nd of July: 3 groups x 2 practices",
+		"alin_35": "3rd of July: 3 groups x 1 practice; leaving hotel"
+	},
+	"ro": {
+		"alin_1": "Zalgiris Youth Camp Târgu Mureș 2021",
+		"alin_2": "Organized by UP Sports Management & BC Sirius Tg. Mures",
+		"alin_3": "- on air by Radio Guerrilla -",
+		"alin_4": "Avem plăcerea să vă anunțăm primul proiect din 2021, Zalgiris Youth Camp Târgu Mureș 2021.Zalgiris Kaunas este cel mai renumit club din Lithuania, cu rezultate excepționale în Euroligă. Suntembucuroși să avem ca oaspeți 4 antrenori de baschet, un antrenor de pregătire fizică și un manager de laAcademia Zalgiris, sub îndrumarea cărora participanții își vor putea înbunătăți performanțele atletice șibaschetbalistice.",
+		"alin_5": "Participanți: băieți născuți în 2005-2006-2007",
+		"alin_6": "Costuri:",
+		"alin_7": "350 € fără masă și cazare",
+		"alin_8": "500 € cu masă și cazare inclusă",
+		"alin_9": "What you get:",
+		"alin_10": "3 grupe x 7 antrenamente; 1 zi de pauză cu excursie, echipamente, fructe și apă pe perioada antrenamentelor, supraveghere medicală în timpul antrenamentelor, premii și surprize",
+		"alin_11": "Taxa de participare va fi virată până la data de 14 Mai 2021.",
+		"alin_12": "Detalii plată pentru sportivii din România (RON):",
+		"alin_13": "Beneficiar: CLUBUL SPORTIV B.C. SIRIUS TÂRGU MUREȘ",
+		"alin_14": "Cont: RO29RNCB0188098436260001",
+		"alin_15": "Bancă: Sucursala BCR TÂRGU MUREȘ",
+		"alin_16": "Detalii plată pentru sportivii din străinătate (EUR):",
+		"alin_17": "Beneficiar: B.C. SIRIUS SPORT CLUB TARGU MUREȘ",
+		"alin_18": "Cont: RO02RNCB0188098436260002",
+		"alin_19": "Cod SWIFT: RNCBROBU",
+		"alin_20": "Bancă: BCR TÂRGU MUREȘ",
+		"alin_21": "În rubrica de detalii vă rugăm să menționați numele participantului. Locurile disponibile se vor ocupa în ordinea confirmării plății. ",
+		"alin_22": "Fișă de înscriere:",
+		"alin_23": "MENȚIUNI",
+		"alin_24": "După primirea fișei de înscriere, veți primi un e-mail cu detalii suplimentare.",
+		"alin_25": "În caz de renunțare la participare vă putem restitui doar suma care acoperă cazarea și masa, adică 150 EURO. Vă recomandăm să vă faceți o asigurare storno pentru suma rămasă.",
+		"alin_26": "Este necesară trimiterea unei adeverințe medicale care să ateste că participantul la camp nu suferă de boli infecțioase și poate participa la activități sportive în grup. Adeverința trebuie să fie datată cu maxim 7 zile înainte de data începerii campului, și va fi trimisă în format electronic.",
+		"alin_27": "Fiecare jucător este rugat să-și aducă o minge de mărime corespunzătoare vârstei.",
+		"alin_28": "Program:",
+		"alin_29": "27 iunie: sosire la hotel (în cazul în care ați solicitat cazare)",
+		"alin_30": "28 iunie: 3 grupe x 1 antrenament",
+		"alin_31": "29 iunie: 3 grupe x 2 antrenamente",
+		"alin_32": "30 iunie: 3 grupe x 1 antrenament; COACH CLINIC: 3 PM, HOTEL CONTINENTAL",
+		"alin_33": "1 iulie: zi liberă - excursie",
+		"alin_34": "2 iulie: 3 grupe x 2 antrenamente",
+		"alin_35": "3 iulie: 3 grupe x 1 antrenament; eliberare camere"
+	},
+	"hu": {
+		"alin_1": "Zalgiris Youth Camp Marosvásárhely 2021",
+		"alin_2": "Organized by UP Sports Management & BC Sirius Tg. Mures",
+		"alin_3": "- on air by Radio Guerrilla -",
+		"alin_4": "Nagy örömmel jelentjük be 2021 első nagy projektjét, a Zalgiris Youth Camp Marosvásárhely 2021 kosárlabda tábort. A Zalgiris Kaunas Litvánia leghíresebb kosárlabda klubja, mely kiemelkedő eredményekkel szerepel az Euroligában. Megtiszteltetést jelent számunkra, hogy vendégül láthatjuk a Zalgiris négy ifjúsági kosárlabda és egy erőnléti edzőjét, illetve menedzserét, akiknek az irányítása alatt a tábor résztvevői fejleszthetik sportbeli készségeiket.",
+		"alin_5": "Résztvevők: 2005-ös, 2006-os és 2007-es születésű fiúk",
+		"alin_6": "Részvételi díj:",
+		"alin_7": "350 € szállás és étkeztetés nélkül",
+		"alin_8": "500 € teljes ellátással",
+		"alin_9": "What you get:",
+		"alin_10": "3 csoport x 7 edzés; 1 szünetnap kirándulással, mez, friss gyümölcs és víz az edzéseken, orvosi felügyelet edzések alatt, díjak és ajándékok",
+		"alin_11": "A részvételi díjat a következő bankszámlára szükséges átutalni 2021 május 14-éig:",
+		"alin_12": "Romániai utalás esetében (RON):",
+		"alin_13": "Kedvezményezett: CLUBUL SPORTIV B.C. SIRIUS TÂRGU MUREȘ",
+		"alin_14": "Bankszámlaszám: RO29RNCB0188098436260001",
+		"alin_15": "Bank: BCR TÂRGU MUREȘ",
+		"alin_16": "Külföldi utalás esetében (EUR):",
+		"alin_17": "Kedvezményezett: B.C. SIRIUS SPORT CLUB TARGU MUREȘ",
+		"alin_18": "Bankszámlaszám: RO02RNCB0188098436260002",
+		"alin_19": "SWIFT: RNCBROBU",
+		"alin_20": "Bank: BCR TÂRGU MUREȘ",
+		"alin_21": "A közlemény rovatba kérjük a sportoló nevét feltüntetni! A helyeket a fizetés sorrendjében töltjük fel. ",
+		"alin_22": "Beiratkozási ív:",
+		"alin_23": "MEGJEGYZÉSEK",
+		"alin_24": "A beiratkozási ív elküldése után a legrövidebb időn belül e-mailt küldünk Önöknek a további részletekkel.",
+		"alin_25": "Lemondás esetén kizárólag a szállást és étkeztetést fedező részösszeget tudjuk visszautalni, azaz 150 eurót. Javasoljuk, hogy a fennmaradó összegre kössenek biztosítást hazájukban.",
+		"alin_26": "A részvételhez e-mailben kérünk egy orvosi igazolást, amely alátámasztja, hogy a sportoló nem szenved fertőző betegségektől, és közösségbe engedhető, és amely a tabor első napján 7 napnál nem régebbi.",
+		"alin_27": "Minden résztvevőt megkérünk, hogy hozzon magával egy korcsoportjának megfelelő méretű labdát.",
+		"alin_28": "Program:",
+		"alin_29": "Június 27: szálláshelyek elfoglalása (amennyiben a sportoló szállást igényelt)",
+		"alin_30": "Június 28: 3 csoport x 1edzés",
+		"alin_31": "Június 29: 3 csoport x 2 edzés",
+		"alin_32": "Június 30: 3 csoport x 1 edzés; COACH CLINIC: D.U. 3, CONTINENTAL HOTEL",
+		"alin_33": "Július 1: kirándulás",
+		"alin_34": "Július 2: 3 csoport x 2 edzés",
+		"alin_35": "Július 3: 3 csoport x 1 edzés; szobák átadása"
+	}
+}
+
 document.getElementById("angol").checked = true;
 
 let pg_aboutus = document.getElementById("About_us");
@@ -50,6 +164,13 @@ let filler = pg_aboutus.querySelectorAll('[data-key]')
 filler.forEach(element => {
 	let key = element.getAttribute('data-key');
 	element.innerHTML = page_aboutus.en[key];
+})
+
+let pg_projects = document.getElementById("Projects");
+let filler_2 = pg_projects.querySelectorAll('[data-key]')
+filler_2.forEach(element => {
+	let key = element.getAttribute('data-key');
+	element.innerHTML = page_projects.en[key];
 })
 
 function switch_lang_hu(){
@@ -65,6 +186,13 @@ function switch_lang_hu(){
 		let key = element.getAttribute('data-key');
 		element.innerHTML = page_aboutus.hu[key];
 	})
+
+	let pg_projects = document.getElementById("Projects");
+	let filler_2 = pg_projects.querySelectorAll('[data-key]')
+	filler_2.forEach(element => {
+		let key = element.getAttribute('data-key');
+		element.innerHTML = page_projects.hu[key];
+	})
 }
 function switch_lang_ro(){
 		if(document.getElementById("roman").checked == false){
@@ -78,6 +206,13 @@ function switch_lang_ro(){
 	filler.forEach(element => {
 		let key = element.getAttribute('data-key');
 		element.innerHTML = page_aboutus.ro[key];
+	})
+
+	let pg_projects = document.getElementById("Projects");
+	let filler_2 = pg_projects.querySelectorAll('[data-key]')
+	filler_2.forEach(element => {
+		let key = element.getAttribute('data-key');
+		element.innerHTML = page_projects.ro[key];
 	})
 }
 function switch_lang_en(){
@@ -93,4 +228,16 @@ function switch_lang_en(){
 		let key = element.getAttribute('data-key');
 		element.innerHTML = page_aboutus.en[key];
 	})
+
+	let pg_projects = document.getElementById("Projects");
+	let filler_2 = pg_projects.querySelectorAll('[data-key]')
+	filler_2.forEach(element => {
+		let key = element.getAttribute('data-key');
+		element.innerHTML = page_projects.en[key];
+	})
 }
+
+
+
+
+

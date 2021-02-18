@@ -1,0 +1,47 @@
+#Projects{
+	background:     linear-gradient(
+      rgba(39,100,90, 0.45), 
+      rgba(39,100,90, 0.45)
+    ),url(oriental-tiles.png);
+	background-repeat: repeat;
+
+}
+#Projects p{
+	font-size: 1.5rem;
+	text-align: center;
+	color: black;
+	padding: 1%;
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-left: 3%;
+	margin-right: 3%;
+}
+#Projects a{
+	font-size: 1.5rem;
+	text-align: center;
+	color: black;
+	padding: 1%;
+	background-color: rgba(255, 255, 255, 0.75);
+	margin-left: 3%;
+	margin-right: 3%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#Projects .Google_Forms_Logo {
+	width: 3%;
+}
+#Projects .projects_title_1{
+	font-size: 3.5rem;
+	font-weight: bold;
+}
+#Projects .projects_title_2{
+	font-size: 2.25rem;
+	font-weight: bold;
+}
+#Projects .projects_bold{
+	font-weight: bold;
+}
+#Projects .projects_italic_underline{
+	font-style: italic;
+	text-decoration: underline;
+}

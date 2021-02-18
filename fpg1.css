@@ -11,10 +11,17 @@
 .section{
 	/*height: 100vh;*/
 	display: flex;
+	/*width: 100vw;*/
+	overflow: hidden;
 	flex-direction: column;
 }
 .section h2{
-	justify-content: space-around;
+	justify-content: center;
+	align-items: center;
+/*	padding-right: 1%;
+	padding-left: 5%;*/
+	/*border: 2px solid pink;*/
+	margin-right: 5%;
 }
 .cim {
 	text-transform: uppercase;
@@ -30,11 +37,17 @@
 	background-size: cover;
 	background-position: center center;
 	display: flex;
+	flex-direction: row;
 	justify-content: space-around;
 	align-items: center;
 }
-.section:nth-child(2){
-/*	background-color: #ed6a5a;*/
+.Plakat {
+	width: 40%;
+		/*padding-right: 1%;*/
+	margin-left: 5%;
+	border: 1px solid grey;
+}
+/*.section:nth-child(2){
 }
 .section:nth-child(3){
 	background-color: #f4f1bb;
@@ -45,8 +58,7 @@
 	background-color: #cfbcdf;
 	height: 0vh;
 	display: hidden;
+		
 }
 .section:nth-child(5){
-/*	height: 20vh;
-	background-color: #034732;
-*/}
+}*/
