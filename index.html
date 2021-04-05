@@ -32,19 +32,19 @@
 			</div>
 			<div class="burgeria">
 				<ul class="menu1">
-					<li> <a class="gomb" data-text="About us" href="#About_us">About us</a> </li>
-					<li> <a class="gomb" data-text="Clients" href="#Clients">Clients</a> </li>
-					<li> <a class="gomb" data-text="Projects" href="#Projects">Projects</a> </li>
-					<li> <a class="gomb" data-text="Contact" href="#Contact">Contact</a> </li>
+					<li> <a class="gomb" data-text="About us" href="#About_us" onclick="click_close_hambi();">About us</a> </li>
+					<li> <a class="gomb" data-text="Clients" href="#Clients" onclick="click_close_hambi();">Clients</a> </li>
+					<li> <a class="gomb" data-text="Projects" href="#Projects" onclick="click_close_hambi();">Projects</a> </li>
+					<li> <a class="gomb" data-text="Contact" href="#Contact" onclick="click_close_hambi();">Contact</a> </li>
 				</ul>
 				<ul class="nyelvek">
-					<li><input type="checkbox" id="magyar" name="magyar" onclick="switch_lang_hu();">
+					<li><input type="checkbox" id="magyar" name="magyar" onclick="switch_lang_hu(); click_close_hambi();">
 						<label class="label_hu" for="magyar"></label>
 					</li>
-					<li><input type="checkbox" id="roman" name="roman" onclick="switch_lang_ro();">
+					<li><input type="checkbox" id="roman" name="roman" onclick="switch_lang_ro(); click_close_hambi();">
 						<label class="label_ro" for="roman"></label>
 					</li>
-					<li><input type="checkbox" id="angol" name="angol" onclick="switch_lang_en();">
+					<li><input type="checkbox" id="angol" name="angol" onclick="switch_lang_en(); click_close_hambi();">
 					<label class="label_en" for="angol"></label>
 					</li>
 				</ul>

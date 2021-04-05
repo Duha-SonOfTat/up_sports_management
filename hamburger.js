@@ -10,3 +10,8 @@ hambibuci.addEventListener('click', () => {
     hambi = true;
   }
 });
+
+function click_close_hambi(){
+    hambibuci.classList.remove('open');
+	hambi = false;
+}
